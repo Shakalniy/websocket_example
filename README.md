@@ -22,7 +22,7 @@
  - Dart: 3.4.3
  - C++
 ### Backend
- - Python: 3.12
+ - Python: 3.8+
 
 ## Внешние зависимости
 ### Frontend:
@@ -36,7 +36,8 @@
  - carousel_slider: 4.2.1
  - sqflite_aurora: 0.5.0
 ### Backend:
- - fastapi:
+ - python-chess: 1.10.0
+ - fastapi: 0.111.1
 
 ## Среда разработки
  - Android Studio Koala 2024.1.1
