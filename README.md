@@ -20,7 +20,7 @@
 ### Frontend:
  - Flutter: 3.16.2-2
  - Dart: 3.4.3
- - C++
+ - C++: 16
 ### Backend
  - Python: 3.8+
 
